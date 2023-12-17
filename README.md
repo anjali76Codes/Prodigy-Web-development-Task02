@@ -26,3 +26,5 @@ Usage:
 Clone the repository.
 Open index.html in a web browser.
 Feel free to contribute or use this project as a template for your own timer applications!
+
+Website link:https://anjali76codes.github.io/Prodigy-Web-development-Task02/
